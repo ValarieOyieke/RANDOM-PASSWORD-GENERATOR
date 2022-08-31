@@ -8,12 +8,12 @@ body {
 }
 
 #container {
-    width: 500px;
-    height: 450px;
+    width: 450px;
+    height: 400px;
     background-color: #1F2937;
     border: 6px solid #2F3E53;
-    border-radius: 4px;
-    padding: 40px 0 30px 40px;
+    border-radius: 8px;
+    padding: 40px;
 }
 
 h1 {
@@ -64,7 +64,7 @@ button {
     border: none;
     color: #D5D4D8;
     border: none;
-    margin: 20px 22px 0px 0px;
+    margin: 20px 25px 0px 0px;
 }
 
 button:active {
@@ -81,14 +81,14 @@ hr {
 
 .inputs {
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: space-between;
+   
 }
 
 #input-one, #input-two {
     width: 170px;
     height: 32px;
-    margin: 25px 25px 0px 0px;
+    margin-top: 25px;
     background: #273549;
     border: none;
     border-radius: 6px;
