@@ -6,8 +6,4 @@ Access the courses here:
 
 (https://scrimba.com/allcourses)
 
-The Frontend Career Path
-
-Become a Scrimba Pro member
-
 Happy Coding!
